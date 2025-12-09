@@ -1,0 +1,471 @@
+{
+  "country": "de",
+  "total_datasuppliers": 93,
+  "datasuppliers": [
+    {
+      "id": 30,
+      "name": "BOSCH",
+      "articles": 139899
+    },
+    {
+      "id": 101,
+      "name": "FEBI BILSTEIN",
+      "articles": 72990
+    },
+    {
+      "id": 253,
+      "name": "DIEDERICHS",
+      "articles": 70343
+    },
+    {
+      "id": 156,
+      "name": "JAPANPARTS",
+      "articles": 51588
+    },
+    {
+      "id": 161,
+      "name": "TRW",
+      "articles": 50073
+    },
+    {
+      "id": 403,
+      "name": "MAXGEAR",
+      "articles": 47003
+    },
+    {
+      "id": 21,
+      "name": "VALEO",
+      "articles": 46293
+    },
+    {
+      "id": 94,
+      "name": "METZGER AUTOTEILE",
+      "articles": 44954
+    },
+    {
+      "id": 36,
+      "name": "VAN WEZEL",
+      "articles": 42887
+    },
+    {
+      "id": 89,
+      "name": "DELPHI",
+      "articles": 42141
+    },
+    {
+      "id": 475,
+      "name": "BORG &amp; BECK",
+      "articles": 40763
+    },
+    {
+      "id": 206,
+      "name": "A.B.S.",
+      "articles": 39425
+    },
+    {
+      "id": 2,
+      "name": "HELLA",
+      "articles": 38332
+    },
+    {
+      "id": 151,
+      "name": "SWAG",
+      "articles": 36680
+    },
+    {
+      "id": 95,
+      "name": "MAGNETI MARELLI",
+      "articles": 34517
+    },
+    {
+      "id": 32,
+      "name": "SACHS",
+      "articles": 34347
+    },
+    {
+      "id": 162,
+      "name": "VAICO",
+      "articles": 31685
+    },
+    {
+      "id": 65,
+      "name": "BREMBO",
+      "articles": 31390
+    },
+    {
+      "id": 287,
+      "name": "MAHLE",
+      "articles": 30219
+    },
+    {
+      "id": 22,
+      "name": "WABCO",
+      "articles": 28159
+    },
+    {
+      "id": 50,
+      "name": "SKF",
+      "articles": 28143
+    },
+    {
+      "id": 133,
+      "name": "MAPCO",
+      "articles": 27942
+    },
+    {
+      "id": 350,
+      "name": "BLUE PRINT",
+      "articles": 27198
+    },
+    {
+      "id": 183,
+      "name": "VEMO",
+      "articles": 26483
+    },
+    {
+      "id": 177,
+      "name": "BTS Turbo",
+      "articles": 24200
+    },
+    {
+      "id": 35,
+      "name": "LEMFÖRDER",
+      "articles": 23998
+    },
+    {
+      "id": 55,
+      "name": "HERTH+BUSS JAKOPARTS",
+      "articles": 23891
+    },
+    {
+      "id": 301,
+      "name": "TOPRAN",
+      "articles": 22914
+    },
+    {
+      "id": 144,
+      "name": "MEYLE",
+      "articles": 22593
+    },
+    {
+      "id": 39,
+      "name": "TEXTAR",
+      "articles": 21471
+    },
+    {
+      "id": 10,
+      "name": "ELRING",
+      "articles": 20606
+    },
+    {
+      "id": 33,
+      "name": "GATES",
+      "articles": 19426
+    },
+    {
+      "id": 362,
+      "name": "ALKAR",
+      "articles": 18094
+    },
+    {
+      "id": 9,
+      "name": "VICTOR REINZ",
+      "articles": 17602
+    },
+    {
+      "id": 432,
+      "name": "KOLBENSCHMIDT",
+      "articles": 17005
+    },
+    {
+      "id": 268,
+      "name": "JP GROUP",
+      "articles": 15790
+    },
+    {
+      "id": 118,
+      "name": "HJS",
+      "articles": 15210
+    },
+    {
+      "id": 54,
+      "name": "FTE",
+      "articles": 14650
+    },
+    {
+      "id": 3,
+      "name": "ATE",
+      "articles": 14158
+    },
+    {
+      "id": 205,
+      "name": "NRF",
+      "articles": 13874
+    },
+    {
+      "id": 1,
+      "name": "SPIDAN",
+      "articles": 13676
+    },
+    {
+      "id": 479,
+      "name": "ALANKO",
+      "articles": 13365
+    },
+    {
+      "id": 243,
+      "name": "CAR",
+      "articles": 12313
+    },
+    {
+      "id": 42,
+      "name": "DAYCO",
+      "articles": 12018
+    },
+    {
+      "id": 16,
+      "name": "BILSTEIN",
+      "articles": 11587
+    },
+    {
+      "id": 62,
+      "name": "FERODO",
+      "articles": 11484
+    },
+    {
+      "id": 110,
+      "name": "SNR",
+      "articles": 11452
+    },
+    {
+      "id": 6,
+      "name": "Schaeffler LuK",
+      "articles": 10556
+    },
+    {
+      "id": 239,
+      "name": "HUTCHINSON",
+      "articles": 10273
+    },
+    {
+      "id": 279,
+      "name": "GIRLING",
+      "articles": 10072
+    },
+    {
+      "id": 112,
+      "name": "EIBACH",
+      "articles": 9576
+    },
+    {
+      "id": 66,
+      "name": "DENSO",
+      "articles": 9112
+    },
+    {
+      "id": 175,
+      "name": "LESJÖFORS",
+      "articles": 8944
+    },
+    {
+      "id": 192,
+      "name": "Schaeffler FAG",
+      "articles": 8934
+    },
+    {
+      "id": 204,
+      "name": "Schaeffler INA",
+      "articles": 7943
+    },
+    {
+      "id": 5,
+      "name": "PIERBURG",
+      "articles": 7783
+    },
+    {
+      "id": 31,
+      "name": "CONTINENTAL CTAM",
+      "articles": 6606
+    },
+    {
+      "id": 4,
+      "name": "MANN-FILTER",
+      "articles": 6470
+    },
+    {
+      "id": 146,
+      "name": "AMC Filter",
+      "articles": 4580
+    },
+    {
+      "id": 81,
+      "name": "HENGST FILTER",
+      "articles": 4555
+    },
+    {
+      "id": 68,
+      "name": "ZF",
+      "articles": 4397
+    },
+    {
+      "id": 86,
+      "name": "ZIMMERMANN",
+      "articles": 4360
+    },
+    {
+      "id": 96,
+      "name": "AL-KO",
+      "articles": 4207
+    },
+    {
+      "id": 15,
+      "name": "NGK",
+      "articles": 3794
+    },
+    {
+      "id": 180,
+      "name": "ALCO FILTER",
+      "articles": 3690
+    },
+    {
+      "id": 283,
+      "name": "AP",
+      "articles": 3182
+    },
+    {
+      "id": 305,
+      "name": "K&amp;N Filters",
+      "articles": 3087
+    },
+    {
+      "id": 256,
+      "name": "FILTRON",
+      "articles": 2914
+    },
+    {
+      "id": 51,
+      "name": "WESTFALIA",
+      "articles": 2901
+    },
+    {
+      "id": 449,
+      "name": "ASTEMO-HITACHI",
+      "articles": 2833
+    },
+    {
+      "id": 34,
+      "name": "KNECHT",
+      "articles": 2716
+    },
+    {
+      "id": 222,
+      "name": "LIQUI MOLY",
+      "articles": 2443
+    },
+    {
+      "id": 461,
+      "name": "RAVENOL",
+      "articles": 2439
+    },
+    {
+      "id": 83,
+      "name": "CONTINENTAL/VDO",
+      "articles": 2431
+    },
+    {
+      "id": 109,
+      "name": "BUGATTI",
+      "articles": 2365
+    },
+    {
+      "id": 327,
+      "name": "BorgWarner",
+      "articles": 2019
+    },
+    {
+      "id": 168,
+      "name": "MOTIP",
+      "articles": 1935
+    },
+    {
+      "id": 18,
+      "name": "KONI",
+      "articles": 1699
+    },
+    {
+      "id": 97,
+      "name": "WAECO",
+      "articles": 1681
+    },
+    {
+      "id": 141,
+      "name": "AE",
+      "articles": 1596
+    },
+    {
+      "id": 11,
+      "name": "BorgWarner (BERU)",
+      "articles": 1238
+    },
+    {
+      "id": 167,
+      "name": "DUPLI COLOR",
+      "articles": 1206
+    },
+    {
+      "id": 67,
+      "name": "ams-OSRAM",
+      "articles": 956
+    },
+    {
+      "id": 294,
+      "name": "SACHS PERFORMANCE",
+      "articles": 908
+    },
+    {
+      "id": 19,
+      "name": "SWF",
+      "articles": 829
+    },
+    {
+      "id": 79,
+      "name": "BorgWarner (Wahler)",
+      "articles": 812
+    },
+    {
+      "id": 207,
+      "name": "CASTROL",
+      "articles": 655
+    },
+    {
+      "id": 26,
+      "name": "VARTA",
+      "articles": 499
+    },
+    {
+      "id": 75,
+      "name": "PHILIPS",
+      "articles": 490
+    },
+    {
+      "id": 328,
+      "name": "BorgWarner (3K)",
+      "articles": 442
+    },
+    {
+      "id": 326,
+      "name": "BorgWarner (Schwitzer)",
+      "articles": 198
+    },
+    {
+      "id": 377,
+      "name": "BOSCH DIAGNOSTICS",
+      "articles": 86
+    },
+    {
+      "id": 254,
+      "name": "AFA",
+      "articles": 66
+    }
+  ]
+}
